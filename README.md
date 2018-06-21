@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+# http://localhost:3000/song/json
+
+# http://localhost:3000/song/html
